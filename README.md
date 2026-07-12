@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Esakki Raja
 
-<!--
-**Esakkiraja1007/Esakkiraja1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 2026 IT Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full Stack Developer
+
+🌱 Currently Learning
+
+- JavaScript
+- TypeScript
+- React
+- Node.js
+
+## Projects
+
+- Portfolio Website
+- Bootstrap E-Commerce
+- Calculator
+- Todo App
+- Weather App
+
+## Connect with Me
+
+LinkedIn
+
+Portfolio
