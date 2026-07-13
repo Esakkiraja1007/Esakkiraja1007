@@ -46,7 +46,7 @@ Programming Foundation → Frontend Development → Backend Development → Data
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/esakki-raja-30244824b
+* LinkedIn: www.linkedin.com/in/esakki-raja1015
 * Portfolio: https://esakkiraja-portfolio.vercel.app/
 
 ---
