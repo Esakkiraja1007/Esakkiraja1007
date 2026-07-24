@@ -4,7 +4,7 @@
 
 * 🎓 2026 IT Graduate
 * 💻 Aspiring Full Stack Developer
-* 🌱 Currently learning JavaScript and building real-world projects
+* 🌱 Currently Learning TypeScript and building real-world projects
 * 🎯 Goal: Become a Software Engineer and continuously improve my skills
 
 ---
@@ -14,7 +14,7 @@
 * HTML5
 * CSS3
 * Bootstrap 5
-* JavaScript (Learning)
+* JavaScript (ES6+)
 * Git
 * GitHub
 * VS Code
@@ -23,8 +23,7 @@
 
 ## 📚 Currently Learning
 
-* JavaScript DOM
-* Asynchronous JavaScript
+* TypeScript
 * SQL
 * Python for DSA
 * Aptitude
