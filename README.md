@@ -33,7 +33,7 @@
 ## 📌 Featured Projects
 
 * 🌐 Portfolio Website
-* 🛒 Bootstrap E-Commerce Website
+* 🛒 Mini E-Commerce Store
 
 ---
 
