@@ -23,9 +23,9 @@
 
 ## 📚 Currently Learning
 
-* TypeScript
+* React
 * SQL
-* Python for DSA
+* Java for DSA
 * Aptitude
 
 ---
